@@ -1,0 +1,24 @@
+.header-index h1{
+	color: white;
+	text-align: center;
+	margin-top: 15px;
+	font-family: sans-serif;
+}
+.tabel{
+	width: 50%;
+}
+.image{
+	margin: 0px 20px 20px 370px
+}
+.header-index{
+	width: 100%;
+	margin: auto;
+	border: 2px solid;
+	background-color: #16186A;
+}
+.ubah{
+	color: green;
+}
+.hapus{
+	color: red;
+}
